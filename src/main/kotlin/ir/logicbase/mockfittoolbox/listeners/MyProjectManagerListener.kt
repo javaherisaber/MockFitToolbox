@@ -1,9 +1,9 @@
-package com.github.javaherisaber.mockfittoolbox.listeners
+package ir.logicbase.mockfittoolbox.listeners
 
 import com.intellij.openapi.components.service
 import com.intellij.openapi.project.Project
 import com.intellij.openapi.project.ProjectManagerListener
-import com.github.javaherisaber.mockfittoolbox.services.MyProjectService
+import ir.logicbase.mockfittoolbox.services.MyProjectService
 
 internal class MyProjectManagerListener : ProjectManagerListener {
 

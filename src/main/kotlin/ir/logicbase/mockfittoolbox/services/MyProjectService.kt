@@ -1,7 +1,7 @@
-package com.github.javaherisaber.mockfittoolbox.services
+package ir.logicbase.mockfittoolbox.services
 
 import com.intellij.openapi.project.Project
-import com.github.javaherisaber.mockfittoolbox.MyBundle
+import ir.logicbase.mockfittoolbox.MyBundle
 
 class MyProjectService(project: Project) {
 
